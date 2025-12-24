@@ -1,0 +1,11 @@
+C:\Users\billi\Documents\homework_ceit\c#\MenuBarStrip\MenuBarStrip\bin\Debug\MenuBarStrip.exe.config
+C:\Users\billi\Documents\homework_ceit\c#\MenuBarStrip\MenuBarStrip\bin\Debug\MenuBarStrip.exe
+C:\Users\billi\Documents\homework_ceit\c#\MenuBarStrip\MenuBarStrip\bin\Debug\MenuBarStrip.pdb
+C:\Users\billi\Documents\homework_ceit\c#\MenuBarStrip\MenuBarStrip\obj\Debug\MenuBarStrip.csproj.AssemblyReference.cache
+C:\Users\billi\Documents\homework_ceit\c#\MenuBarStrip\MenuBarStrip\obj\Debug\MenuBarStrip.Properties.Resources.resources
+C:\Users\billi\Documents\homework_ceit\c#\MenuBarStrip\MenuBarStrip\obj\Debug\MenuBarStrip.csproj.GenerateResource.cache
+C:\Users\billi\Documents\homework_ceit\c#\MenuBarStrip\MenuBarStrip\obj\Debug\MenuBarStrip.csproj.CoreCompileInputs.cache
+C:\Users\billi\Documents\homework_ceit\c#\MenuBarStrip\MenuBarStrip\obj\Debug\MenuBarStrip.exe
+C:\Users\billi\Documents\homework_ceit\c#\MenuBarStrip\MenuBarStrip\obj\Debug\MenuBarStrip.pdb
+C:\Users\billi\Documents\homework_ceit\c#\MenuBarStrip\MenuBarStrip\obj\Debug\MenuBarStrip.exe.config
+C:\Users\billi\Documents\homework_ceit\c#\MenuBarStrip\MenuBarStrip\obj\Debug\MenuBarStrip.Form1.resources
